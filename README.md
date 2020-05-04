@@ -7,3 +7,4 @@ Vision and NLP
 
 03.5.20  Added crossvalidation file
 03.5.20  Added categorical file
+4.5.20 Train a new language from scratch with Bert
